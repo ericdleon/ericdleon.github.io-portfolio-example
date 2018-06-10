@@ -59,3 +59,11 @@ a {
 .wrapper a:hover {
   color: #642B73;
 }
+
+/* Media Queries */
+@media(max-width: 500px) {
+  .button {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
